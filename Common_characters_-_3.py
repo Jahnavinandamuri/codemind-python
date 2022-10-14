@@ -25,4 +25,3 @@ if len(res)==0:
     print(-1)
 else:
     print(res[0])
- 
