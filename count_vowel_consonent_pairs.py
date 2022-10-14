@@ -11,3 +11,4 @@ for i in range(mid):
     if a[i] not in vow and a[l-i-1] in vow:
         c+=1
 print(c)
+
