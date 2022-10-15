@@ -9,4 +9,4 @@ for i in arr:
             c+=1
     if c<ma:
         ma=c
-print(ma)   
+print(ma)
