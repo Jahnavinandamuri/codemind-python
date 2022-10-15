@@ -11,4 +11,3 @@ if f==1:
     print("True")
 else:
     print("False")
- 
